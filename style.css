@@ -1,4 +1,53 @@
-.Register-Form{
-    border: 2px black solid;
-    display: inline-block;
+.main {
+    width: 600px;
+    height: 250px;
+    background-color: beige;
+    overflow: hidden;
+}
+
+.in1 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(92, 92, 92);
+}
+
+.in2 {
+    width: 150px;
+    height: 150px;
+    background-color: tomato;
+}
+
+.in3 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255, 157, 0);
+}
+
+.in4 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(0, 255, 157);
+}
+
+.in5 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(72, 255, 0);
+
+}
+
+.in6 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(0, 68, 255);
+}
+
+.in7 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255, 0, 0);
+}
+
+.line {
+    float: left;
 }
