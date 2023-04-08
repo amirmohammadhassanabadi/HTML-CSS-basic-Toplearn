@@ -1,11 +1,4 @@
-a{
-    text-decoration: none;
-}
-#top{
-    color: #FBBA00;
-}
-#last-photo{
-    width: 300px;
-    height: auto;
-    margin-top: 20px;
+.Register-Form{
+    border: 2px black solid;
+    display: inline-block;
 }
